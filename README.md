@@ -1,16 +1,17 @@
-## Hi there 👋
+# SEJAM BEM VINDOS!
 
-<!--
-**leticiapaixao31/leticiapaixao31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ana Leticia, sou estudante de Desenvolvimento de Sistemas (1º período), com foco na construção de uma base sólida em lógica de programação, engenharia de software e resolução estruturada de problemas.
 
-Here are some ideas to get you started:
+Sobre
+- Cursando o 1º período de Desenvolvimento de Sistemas.
+- Dedicada ao aprendizado dos fundamentos da computação, algoritmos, estruturas de dados e boas práticas de desenvolvimento.
+- Em busca de aplicar os conhecimentos teóricos em projetos práticos e desenvolver competências técnicas na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tecnologias em Estudo
+- **Lógica e Algoritmos:** Portugol
+- **Linguagens de Programação:** Python, C#, C++
+- **Controle de Versão:** Git, GitHub
+
+ Contato
+- GIT HUB [leticiapaixao31]
+- E-mail: [analericia.paixao@gmail.com]
